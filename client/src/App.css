@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2em 0;
+
+    gap: 1rem;
+}
+
+.container form {
+    display: flex;
+
+    gap: 1rem;
+}
